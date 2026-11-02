@@ -1,0 +1,12 @@
+name = "ali-zghair-api"
+main = "src/index.js"
+compatibility_date = "2025-06-01"
+
+[[kv_namespaces]]
+binding = "GALLERY"
+id = "42bb7ad4802c478dad2b2d653d146b5b"
+
+[vars]
+SITE_ORIGIN = "https://janabi-studio.github.io"
+ADMIN_EMAIL = "aliyouam1997@gmail.com"
+# ADMIN_PASSWORD: سر (Secret) ينحط من لوحة Cloudflare، ما ينكتب هنا أبداً
