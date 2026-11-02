@@ -1,4 +1,4 @@
-name = "ali-zghair-api"
+name = "ali-zghair"
 main = "src/index.js"
 compatibility_date = "2025-06-01"
 
